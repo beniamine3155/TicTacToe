@@ -1,0 +1,4 @@
+#Sat May 06 05:49:37 BDT 2023
+base.0=/Users/macbookair/Documents/MobileApp/tictactoe/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
